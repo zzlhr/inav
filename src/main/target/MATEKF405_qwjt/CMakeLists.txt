@@ -1,0 +1,3 @@
+target_stm32f405xg(MATEKF405_QWJT)
+#target_stm32f405xg(MATEKF405_QWJT_OSD)
+#target_stm32f405xg(MATEKF405_QWJT_MINI)
